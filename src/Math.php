@@ -1,6 +1,6 @@
 <?php
 
-namespace Ahmed\Morelib;
+namespace More;
 /** A Class that handles mathmatical equations */
 class Math {
     /**

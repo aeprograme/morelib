@@ -1,6 +1,6 @@
 <?php
 
-namespace Ahmed\Morelib;
+namespace More;
 
 /** A class that handles string operations */
 class Str
