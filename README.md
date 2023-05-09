@@ -1,9 +1,4 @@
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
-
-<!-- PROJECT LOGO -->
+The project is currently in Development!
 <br />
 <div align="center">
   <a href="https://github.com/aeprograme/morelib">
