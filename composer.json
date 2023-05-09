@@ -1,11 +1,11 @@
 {
-    "name": "ahmed/morelib",
+    "name": "aeprograme/morelib",
     "description": "Collection of Libraries written from scratch for MoreFrameWork",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ahmed\\Morelib\\": "src/"
+            "More\\": "src/"
         }
     },
     "authors": [
